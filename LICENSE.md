@@ -8,9 +8,9 @@ For purposes of the foregoing, “Sell” means practicing any or all of the rig
 
 Software: [LICENSE]
 
-License: [EUPL-1.2]
+License: [EUPL-1.2](https://github.com/Thorfusion/LICENSE/raw/main/EUPL-1.2.txt)
 
-License for works other than software: [CC BY-NC-SA 4.0]
+License for works other than software: [CC BY-NC-SA 4.0](https://github.com/Thorfusion/LICENSE/raw/main/CC%20BY-NC-SA%204.0.txt)
 
 Licensor: [Thorfusion]
 
